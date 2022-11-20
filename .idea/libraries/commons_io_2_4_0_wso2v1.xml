@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-io_2.4.0.wso2v1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Tickets/HKJCSUB-538/wso2am-3.2.0/repository/components/plugins/commons-io_2.4.0.wso2v1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

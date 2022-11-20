@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="axiom_1.2.11.wso2v16_5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Tickets/HKJCSUB-538/wso2am-3.2.0/repository/components/plugins/axiom_1.2.11.wso2v16_5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
